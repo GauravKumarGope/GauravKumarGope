@@ -1,5 +1,6 @@
 ## Hi there 👋
 This repository contains my web dev Practice projects 
+I have aimed on Completing 30 projects , few big and few small Before the end of the year. 
 
 <!--
 **GauravKumarGope/GauravKumarGope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
