@@ -1,0 +1,67 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: rgb(246, 147, 26);
+    color: white;
+    height: 50px;
+    font-size: 30px;
+    padding: 8px;
+    text-align: center;
+}
+
+.jokeBox{
+    background-color: rgb(232, 191, 103);
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 400px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.jokecan{
+    padding-top: 100px;
+    padding-left: 50px;
+    font-size: 2rem;
+}
+
+
+.jokeselec{
+    display: flex;
+    justify-content: center;
+}
+
+.jokeNav{
+    margin-top: 40px;
+}
+
+.jokeNav #askType{
+    width: 20rem;
+    height: 3rem;
+    border-radius: 8px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    background-color: blanchedalmond;
+}
+
+.jokeNav button{
+    height: 3rem;
+    margin-left: 50px;
+    border-radius: 20px;
+    width: 60px;
+    background-color: rgb(253, 141, 4);
+    color: rgb(39, 84, 156);
+    font-size: 15px;
+    font-weight: 600;
+}
